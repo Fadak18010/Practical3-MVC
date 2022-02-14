@@ -15,6 +15,8 @@ public class View1 extends JPanel
     
     private JTextField display;
     
+    
+    //Fadak
     // Constructor
     public View1(Controller1 contr, Model model) {
         
