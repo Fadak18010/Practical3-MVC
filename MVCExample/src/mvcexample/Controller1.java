@@ -8,7 +8,7 @@ package mvcexample;
 //               (displaying A and B components of the model)
 // Offers three buttons: clear views, increment A in the model 
 // and quit - see below
-//mohammed
+
 
 import java.awt.*;
 import java.awt.event.*;

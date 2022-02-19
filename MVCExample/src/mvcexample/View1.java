@@ -2,6 +2,7 @@ package mvcexample;
 
 // This is the cyan view
 // It displays the A component of the model (data base)
+//mohammed121
 
 import java.util.*;  // For Observer
 import java.awt.*;
@@ -15,8 +16,6 @@ public class View1 extends JPanel
     
     private JTextField display;
     
-    
-    //Fadak
     // Constructor
     public View1(Controller1 contr, Model model) {
         
