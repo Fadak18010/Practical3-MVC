@@ -55,7 +55,8 @@ public class Controller1 extends JFrame
         
         // Display the frame
         setVisible(true);
-      
+        
+      model. modifyA();
     } // constructor
   
     // Button click handling:
@@ -66,10 +67,13 @@ public class Controller1 extends JFrame
             view2.clear();
         }
         else if (e.getSource() == incA) 
+        
             model.modifyA();     // The model will trigger the views to update themselves
+       
+        
         else if (e.getSource() == quit)
             System.exit(0);
-          
+              
   } // actionPerformed
   
 } // class Controller1
