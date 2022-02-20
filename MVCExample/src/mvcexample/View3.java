@@ -15,7 +15,7 @@ public class View3 extends JPanel implements Observer {
     private Controller2 contr;   // Parent Frame
     
     private JTextField display;
-    
+    //35
     // Constructor
     public View3(Controller2 contr, Model model) {
         
