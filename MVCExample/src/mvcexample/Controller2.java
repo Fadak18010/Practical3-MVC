@@ -12,7 +12,7 @@ import javax.swing.*;
 
 public class Controller2 extends JFrame
                          implements ActionListener {
-  
+  //354
     private Model model;
     private View3 view3;
     private View4 view4;
